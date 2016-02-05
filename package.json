@@ -35,5 +35,8 @@
     "passport-instagram": "^1.0.0",
     "passport-twitter": "^1.0.3",
     "should": "^7.1.1"
+  },
+  "devDependencies": {
+    "bson": "^0.4.21"
   }
 }
